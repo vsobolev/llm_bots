@@ -79,14 +79,3 @@ Contributions are welcome! If you have suggestions for improvements or want to a
 
 For questions or feedback, please reach out to me on [GitHub](https://github.com/vsobolev).
 ```
-
-### Notes:
-- Be sure to create a `requirements.txt` file that includes the necessary dependencies:
-  ```
-  aiogram
-  beautifulsoup4
-  requests
-  ollama
-  ```
-
-This README provides clear instructions and an overview of your project. If you have any additional information or sections you'd like to include, let me know!
